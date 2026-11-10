@@ -6,6 +6,8 @@
 # spm1dmatlab
 One-Dimensional Statistical Parametric Mapping in MATLAB.
 
+Find this package useful? Please press star ★ , thank you!
+
 
 ________________________________________________________________________
 
@@ -14,6 +16,14 @@ Disclaimer
 spm1d is free but copyright software, distributed under the terms of the GNU General Public License as published by the Free Software Foundation (version 3, as below). Further details on "copyleft" can be found at http://www.gnu.org/copyleft/. In particular, SPM is supplied as is. No formal support or maintenance is provided or implied.
 
 spm1d is currently developed and maintained by Todd Pataky.
+
+
+
+________________________________________________________________________
+
+Contributing
+
+Please see the [spm1d.org contributing guidelines and AI policy](https://spm1d.org/contributing/).
 
 
 
