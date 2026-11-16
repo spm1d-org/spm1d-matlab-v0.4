@@ -1,6 +1,6 @@
 function [SPM] = anova3nested(Y, A, B, C, varargin)
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 
 
 

@@ -1,6 +1,6 @@
 function [h] = legend_manual(labels, varargin)
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 % $Id: plot_errorcloud.m 1 2016-01-04 16:07 todd $
 
 %parse inputs

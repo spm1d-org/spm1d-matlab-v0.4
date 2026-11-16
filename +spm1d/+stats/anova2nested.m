@@ -1,6 +1,6 @@
 function [SPM] = anova2nested(Y, A, B, varargin)
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 
 
 design = spm1d.stats.anova.designs.ANOVA2nested(A, B);

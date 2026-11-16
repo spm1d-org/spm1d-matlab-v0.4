@@ -1,6 +1,6 @@
 function [SPM] = anova3rm(y, A, B, C, SUBJ)
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 
 
 spm   = spm1d.stats.anova3rm(y, A, B, C, SUBJ, 'force_approx0D', true);

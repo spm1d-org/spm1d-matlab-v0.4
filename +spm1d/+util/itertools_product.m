@@ -1,6 +1,6 @@
 function [A] = itertools_product(a, n)
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 
 
 %%% create sign permutations:

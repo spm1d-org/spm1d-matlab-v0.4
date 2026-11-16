@@ -1,6 +1,6 @@
 function [SPM] = glm(Y, X, c, varargin)
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 
 
 spm1d.util.check_zero_var(Y);

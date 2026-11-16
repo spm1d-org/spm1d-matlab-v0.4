@@ -1,7 +1,7 @@
 function [L,n] = bwlabel(b)
 
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 % $Id: bwlabel.m 1 2016-01-04 16:07 todd $
 
 

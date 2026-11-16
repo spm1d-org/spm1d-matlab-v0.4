@@ -1,6 +1,6 @@
 function [SnPM] = hotellings(y, varargin)
 %__________________________________________________________________________
-% Copyright (C) Copyright (C) 2026  Todd Pataky Todd Pataky
+% Copyright (C) 2026  Todd Pataky
 
 roi_found = any(   cellfun(@(c)(isequal(lower(c),'roi')), varargin)   );
 if roi_found
