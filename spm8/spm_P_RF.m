@@ -124,8 +124,8 @@ P       = 1 - spm_Pcdf(c - 1,(Em + eps)*p);
 %%% 
 %%% Reference:
 %%% 
-%%% Pataky TC (2015). RFT1D: smooth one-dimensional random field upcrossing 
-%%% probabilities in Python. Journal of Statistical Software, in press.
+%%% Pataky TC (2016). rft1d: smooth one-dimensional random field upcrossing 
+%%% probabilities in Python. Journal of Statistical Software 71(7): 1-22.
 %%% 
 % if k > 0 && (STAT == 'X' || STAT == 'F')
 %     P    = []; p = [];
