@@ -1,6 +1,6 @@
 function [self] = Weather()
 self.cite = 'Ramsay JO, Silverman BW (2005). Functional Data Analysis (Second Edition), Springer, New York.';
-self.www  = 'http://www.psych.mcgill.ca/misc/fda/ex-weather-a1.html';
+self.www  = 'https://cran.r-project.org/package=fda';
 dir0      = spm1d.data.get_matfile_path();
 fname     = fullfile(dir0, 'weather.mat');
 s         = load(fname);
