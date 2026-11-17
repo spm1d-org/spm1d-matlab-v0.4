@@ -4,6 +4,8 @@ on:
   push:
     branches: [ master, permargfix ]
 
+permissions:
+  contents: read
 
 jobs:
   matlab-unittests-job:
